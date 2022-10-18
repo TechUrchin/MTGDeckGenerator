@@ -1,0 +1,250 @@
+id,name,colors,cmc,supertypes,types,subtypes,power,toughness,series
+27231,"Academy Raider","Red ",3,,"Creature ","Warrior Human ",1,1,M14
+27232,"Accorder's Shield",,0,,"Artifact ","Equipment ",NULL,NULL,M14
+27233,"Accursed Spirit","Black ",4,,"Creature ","Spirit ",3,2,M14
+27234,"Act of Treason","Red ",3,,"Sorcery ",,NULL,NULL,M14
+27235,"Advocate of the Beast","Green ",3,,"Creature ","Shaman Elf ",2,3,M14
+27236,"Air Servant","Blue ",5,,"Creature ","Elemental ",4,3,M14
+27237,"Ajani's Chosen","White ",4,,"Creature ","Soldier Cat ",3,3,M14
+27238,"Ajani, Caller of the Pride","White ",3,"Legendary ","Planeswalker ","Ajani ",NULL,NULL,M14
+27239,"Altar's Reap","Black ",2,,"Instant ",,NULL,NULL,M14
+27240,"Angelic Accord","White ",4,,"Enchantment ",,NULL,NULL,M14
+27241,"Angelic Wall","White ",2,,"Creature ","Wall ",0,4,M14
+27242,Archaeomancer,"Blue ",4,,"Creature ","Wizard Human ",1,2,M14
+27243,"Archangel of Thune","White ",5,,"Creature ","Angel ",3,4,M14
+27244,"Armored Cancrix","Blue ",5,,"Creature ","Crab ",2,5,M14
+27245,"Artificer's Hex","Black ",1,,"Enchantment ","Aura ",NULL,NULL,M14
+27246,Auramancer,"White ",3,,"Creature ","Wizard Human ",2,2,M14
+27247,"Awaken the Ancient","Red ",4,,"Enchantment ","Aura ",NULL,NULL,M14
+27248,"Banisher Priest","White ",3,,"Creature ","Cleric Human ",2,2,M14
+27249,"Barrage of Expendables","Red ",1,,"Enchantment ",,NULL,NULL,M14
+27250,"Battle Sliver","Red ",5,,"Creature ","Sliver ",3,3,M14
+27251,Blessing,"White ",2,,"Enchantment ","Aura ",NULL,NULL,M14
+27252,Blightcaster,"Black ",4,,"Creature ","Wizard Human ",2,3,M14
+27253,"Blood Bairn","Black ",3,,"Creature ","Vampire ",2,2,M14
+27254,"Blur Sliver","Red ",3,,"Creature ","Sliver ",2,2,M14
+27255,"Bogbrew Witch","Black ",4,,"Creature ","Wizard Human ",1,3,M14
+27256,"Bonescythe Sliver","White ",4,,"Creature ","Sliver ",2,2,M14
+27257,Bramblecrush,"Green ",4,,"Sorcery ",,NULL,NULL,M14
+27258,"Brave the Elements","White ",1,,"Instant ",,NULL,NULL,M14
+27259,"Briarpack Alpha","Green ",4,,"Creature ","Wolf ",3,3,M14
+27260,"Brindle Boar","Green ",3,,"Creature ","Boar ",2,2,M14
+27261,"Bubbling Cauldron",,2,,"Artifact ",,NULL,NULL,M14
+27262,"Burning Earth","Red ",4,,"Enchantment ",,NULL,NULL,M14
+27263,Cancel,"Blue ",3,,"Instant ",,NULL,NULL,M14
+27264,"Canyon Minotaur","Red ",4,,"Creature ","Warrior Minotaur ",3,3,M14
+27265,"Capashen Knight","White ",2,,"Creature ","Knight Human ",1,1,M14
+27266,"Celestial Flare","White ",2,,"Instant ",,NULL,NULL,M14
+27267,"Chandra's Outrage","Red ",4,,"Instant ",,NULL,NULL,M14
+27268,"Chandra's Phoenix","Red ",3,,"Creature ","Phoenix ",2,2,M14
+27269,"Chandra, Pyromaster","Red ",4,"Legendary ","Planeswalker ","Chandra ",NULL,NULL,M14
+27270,"Charging Griffin","White ",4,,"Creature ","Griffin ",2,2,M14
+27271,"Child of Night","Black ",2,,"Creature ","Vampire ",2,1,M14
+27272,Claustrophobia,"Blue ",3,,"Enchantment ","Aura ",NULL,NULL,M14
+27273,Clone,"Blue ",4,,"Creature ","Shapeshifter ",0,0,M14
+27274,"Colossal Whale","Blue ",7,,"Creature ","Whale ",5,5,M14
+27275,Congregate,"White ",4,,"Instant ",,NULL,NULL,M14
+27276,"Coral Merfolk","Blue ",2,,"Creature ","Merfolk ",2,1,M14
+27277,"Corpse Hauler","Black ",2,,"Creature ","Rogue Human ",2,1,M14
+27278,Corrupt,"Black ",6,,"Sorcery ",,NULL,NULL,M14
+27279,"Cyclops Tyrant","Red ",6,,"Creature ","Cyclops ",3,4,M14
+27280,"Dark Favor","Black ",2,,"Enchantment ","Aura ",NULL,NULL,M14
+27281,"Dark Prophecy","Black ",3,,"Enchantment ",,NULL,NULL,M14
+27282,"Darksteel Forge",,9,,"Artifact ",,NULL,NULL,M14
+27283,"Darksteel Ingot",,3,,"Artifact ",,NULL,NULL,M14
+27284,"Dawnstrike Paladin","White ",5,,"Creature ","Knight Human ",2,4,M14
+27285,"Deadly Recluse","Green ",2,,"Creature ","Spider ",1,2,M14
+27286,"Deathgaze Cockatrice","Black ",4,,"Creature ","Cockatrice ",2,2,M14
+27287,Demolish,"Red ",4,,"Sorcery ",,NULL,NULL,M14
+27288,"Devout Invocation","White ",7,,"Sorcery ",,NULL,NULL,M14
+27289,"Diabolic Tutor","Black ",4,,"Sorcery ",,NULL,NULL,M14
+27290,"Dismiss into Dream","Blue ",7,,"Enchantment ",,NULL,NULL,M14
+27291,Disperse,"Blue ",2,,"Instant ",,NULL,NULL,M14
+27292,Divination,"Blue ",3,,"Sorcery ",,NULL,NULL,M14
+27293,"Divine Favor","White ",2,,"Enchantment ","Aura ",NULL,NULL,M14
+27294,Domestication,"Blue ",4,,"Enchantment ","Aura ",NULL,NULL,M14
+27295,"Doom Blade","Black ",2,,"Instant ",,NULL,NULL,M14
+27296,"Door of Destinies",,4,,"Artifact ",,NULL,NULL,M14
+27297,"Dragon Egg","Red ",3,,"Creature ","Egg Dragon ",0,2,M14
+27298,"Dragon Hatchling","Red ",2,,"Creature ","Dragon ",0,1,M14
+27299,Duress,"Black ",1,,"Sorcery ",,NULL,NULL,M14
+27300,"Elite Arcanist","Blue ",4,,"Creature ","Wizard Human ",1,1,M14
+27301,"Elixir of Immortality",,1,,"Artifact ",,NULL,NULL,M14
+27302,"Elvish Mystic","Green ",1,,"Creature ","Druid Elf ",1,1,M14
+27303,"Encroaching Wastes",,0,,"Land ",,NULL,NULL,M14
+27304,Enlarge,"Green ",5,,"Sorcery ",,NULL,NULL,M14
+27305,"Essence Scatter","Blue ",2,,"Instant ",,NULL,NULL,M14
+27306,"Festering Newt","Black ",1,,"Creature ","Salamander ",1,1,M14
+27307,"Fiendslayer Paladin","White ",3,,"Creature ","Knight Human ",2,2,M14
+27308,Fireshrieker,,3,,"Artifact ","Equipment ",NULL,NULL,M14
+27309,"Flames of the Firebrand","Red ",3,,"Sorcery ",,NULL,NULL,M14
+27310,"Fleshpulper Giant","Red ",7,,"Creature ","Giant ",4,4,M14
+27311,Fog,"Green ",1,,"Instant ",,NULL,NULL,M14
+27312,Forest,,0,"Basic ","Land ","Forest ",NULL,NULL,M14
+27313,Forest,,0,"Basic ","Land ","Forest ",NULL,NULL,M14
+27314,Forest,,0,"Basic ","Land ","Forest ",NULL,NULL,M14
+27315,Forest,,0,"Basic ","Land ","Forest ",NULL,NULL,M14
+27316,Fortify,"White ",3,,"Instant ",,NULL,NULL,M14
+27317,"Frost Breath","Blue ",3,,"Instant ",,NULL,NULL,M14
+27318,"Galerider Sliver","Blue ",1,,"Creature ","Sliver ",1,1,M14
+27319,"Garruk's Horde","Green ",7,,"Creature ","Beast ",7,7,M14
+27320,"Garruk, Caller of Beasts","Green ",6,"Legendary ","Planeswalker ","Garruk ",NULL,NULL,M14
+27321,"Giant Growth","Green ",1,,"Instant ",,NULL,NULL,M14
+27322,"Giant Spider","Green ",4,,"Creature ","Spider ",2,4,M14
+27323,"Gladecover Scout","Green ",1,,"Creature ","Scout Elf ",1,1,M14
+27324,"Glimpse the Future","Blue ",3,,"Sorcery ",,NULL,NULL,M14
+27325,"Gnawing Zombie","Black ",2,,"Creature ","Zombie ",1,3,M14
+27326,"Goblin Diplomats","Red ",2,,"Creature ","Goblin ",2,1,M14
+27327,"Goblin Shortcutter","Red ",2,,"Creature ","Scout Goblin ",2,1,M14
+27328,"Griffin Sentinel","White ",3,,"Creature ","Griffin ",1,3,M14
+27329,"Grim Return","Black ",3,,"Instant ",,NULL,NULL,M14
+27330,"Groundshaker Sliver","Green ",7,,"Creature ","Sliver ",5,5,M14
+27331,"Guardian of the Ages",,7,,"Creature Artifact ","Golem ",7,7,M14
+27332,"Haunted Plate Mail",,4,,"Artifact ","Equipment ",NULL,NULL,M14
+27333,"Hive Stirrings","White ",3,,"Sorcery ",,NULL,NULL,M14
+27334,"Howl of the Night Pack","Green ",7,,"Sorcery ",,NULL,NULL,M14
+27335,"Hunt the Weak","Green ",4,,"Sorcery ",,NULL,NULL,M14
+27336,"Illusionary Armor","Blue ",5,,"Enchantment ","Aura ",NULL,NULL,M14
+27337,"Imposing Sovereign","White ",2,,"Creature ","Noble Human ",2,1,M14
+27338,Indestructibility,"White ",4,,"Enchantment ","Aura ",NULL,NULL,M14
+27339,"Into the Wilds","Green ",4,,"Enchantment ",,NULL,NULL,M14
+27340,Island,,0,"Basic ","Land ","Island ",NULL,NULL,M14
+27341,Island,,0,"Basic ","Land ","Island ",NULL,NULL,M14
+27342,Island,,0,"Basic ","Land ","Island ",NULL,NULL,M14
+27343,Island,,0,"Basic ","Land ","Island ",NULL,NULL,M14
+27344,"Jace's Mindseeker","Blue ",6,,"Creature ","Illusion Fish ",4,4,M14
+27345,"Jace, Memory Adept","Blue ",5,"Legendary ","Planeswalker ","Jace ",NULL,NULL,M14
+27346,"Kalonian Hydra","Green ",5,,"Creature ","Hydra ",0,0,M14
+27347,"Kalonian Tusker","Green ",2,,"Creature ","Beast ",3,3,M14
+27348,"Lava Axe","Red ",5,,"Sorcery ",,NULL,NULL,M14
+27349,"Lay of the Land","Green ",1,,"Sorcery ",,NULL,NULL,M14
+27350,"Lifebane Zombie","Black ",3,,"Creature ","Warrior Zombie ",3,1,M14
+27351,"Lightning Talons","Red ",3,,"Enchantment ","Aura ",NULL,NULL,M14
+27352,"Liliana of the Dark Realms","Black ",4,"Legendary ","Planeswalker ","Liliana ",NULL,NULL,M14
+27353,"Liliana's Reaver","Black ",4,,"Creature ","Zombie ",4,3,M14
+27354,"Liturgy of Blood","Black ",5,,"Sorcery ",,NULL,NULL,M14
+27355,"Manaweft Sliver","Green ",2,,"Creature ","Sliver ",1,1,M14
+27356,"Marauding Maulhorn","Red ",4,,"Creature ","Beast ",5,3,M14
+27357,"Mark of the Vampire","Black ",4,,"Enchantment ","Aura ",NULL,NULL,M14
+27358,"Master of Diversion","White ",3,,"Creature ","Scout Human ",2,2,M14
+27359,"Megantic Sliver","Green ",6,,"Creature ","Sliver ",3,3,M14
+27360,"Merfolk Spy","Blue ",1,,"Creature ","Rogue Merfolk ",1,1,M14
+27361,"Messenger Drake","Blue ",5,,"Creature ","Drake ",3,3,M14
+27362,Millstone,,2,,"Artifact ",,NULL,NULL,M14
+27363,"Mind Rot","Black ",3,,"Sorcery ",,NULL,NULL,M14
+27364,Mindsparker,"Red ",3,,"Creature ","Elemental ",3,2,M14
+27365,"Minotaur Abomination","Black ",6,,"Creature ","Minotaur Zombie ",4,6,M14
+27366,"Molten Birth","Red ",3,,"Sorcery ",,NULL,NULL,M14
+27367,Mountain,,0,"Basic ","Land ","Mountain ",NULL,NULL,M14
+27368,Mountain,,0,"Basic ","Land ","Mountain ",NULL,NULL,M14
+27369,Mountain,,0,"Basic ","Land ","Mountain ",NULL,NULL,M14
+27370,Mountain,,0,"Basic ","Land ","Mountain ",NULL,NULL,M14
+27371,Mutavault,,0,,"Land ",,NULL,NULL,M14
+27372,Naturalize,"Green ",2,,"Instant ",,NULL,NULL,M14
+27373,Negate,"Blue ",2,,"Instant ",,NULL,NULL,M14
+27374,"Nephalia Seakite","Blue ",4,,"Creature ","Bird ",2,3,M14
+27375,Nightmare,"Black ",6,,"Creature ","Horse Nightmare ",*,*,M14
+27376,"Nightwing Shade","Black ",5,,"Creature ","Shade ",2,2,M14
+27377,"Oath of the Ancient Wood","Green ",3,,"Enchantment ",,NULL,NULL,M14
+27378,"Ogre Battledriver","Red ",4,,"Creature ","Warrior Ogre ",3,3,M14
+27379,Opportunity,"Blue ",6,,"Instant ",,NULL,NULL,M14
+27380,Pacifism,"White ",2,,"Enchantment ","Aura ",NULL,NULL,M14
+27381,"Path of Bravery","White ",3,,"Enchantment ",,NULL,NULL,M14
+27382,"Pay No Heed","White ",1,,"Instant ",,NULL,NULL,M14
+27383,"Phantom Warrior","Blue ",3,,"Creature ","Warrior Illusion ",2,2,M14
+27384,"Pillarfield Ox","White ",4,,"Creature ","Ox ",2,4,M14
+27385,"Pitchburn Devils","Red ",5,,"Creature ","Devil ",3,3,M14
+27386,Plains,,0,"Basic ","Land ","Plains ",NULL,NULL,M14
+27387,Plains,,0,"Basic ","Land ","Plains ",NULL,NULL,M14
+27388,Plains,,0,"Basic ","Land ","Plains ",NULL,NULL,M14
+27389,Plains,,0,"Basic ","Land ","Plains ",NULL,NULL,M14
+27390,"Planar Cleansing","White ",6,,"Sorcery ",,NULL,NULL,M14
+27391,Plummet,"Green ",2,,"Instant ",,NULL,NULL,M14
+27392,"Predatory Sliver","Green ",2,,"Creature ","Sliver ",1,1,M14
+27393,"Primeval Bounty","Green ",6,,"Enchantment ",,NULL,NULL,M14
+27394,"Pyromancer's Gauntlet",,5,,"Artifact ",,NULL,NULL,M14
+27395,"Quag Sickness","Black ",3,,"Enchantment ","Aura ",NULL,NULL,M14
+27396,Quicken,"Blue ",1,,"Instant ",,NULL,NULL,M14
+27397,"Ranger's Guile","Green ",1,,"Instant ",,NULL,NULL,M14
+27398,"Ratchet Bomb",,2,,"Artifact ",,NULL,NULL,M14
+27399,"Regathan Firecat","Red ",3,,"Creature ","Cat Elemental ",4,1,M14
+27400,"Ring of Three Wishes",,5,,"Artifact ",,NULL,NULL,M14
+27401,"Rise of the Dark Realms","Black ",9,,"Sorcery ",,NULL,NULL,M14
+27402,"Rod of Ruin",,4,,"Artifact ",,NULL,NULL,M14
+27403,Rootwalla,"Green ",3,,"Creature ","Lizard ",2,2,M14
+27404,"Rumbling Baloth","Green ",4,,"Creature ","Beast ",4,4,M14
+27405,"Sanguine Bond","Black ",5,,"Enchantment ",,NULL,NULL,M14
+27406,"Savage Summoning","Green ",1,,"Instant ",,NULL,NULL,M14
+27407,"Scavenging Ooze","Green ",2,,"Creature ","Ooze ",2,2,M14
+27408,"Scourge of Valkas","Red ",5,,"Creature ","Dragon ",4,4,M14
+27409,"Scroll Thief","Blue ",3,,"Creature ","Rogue Merfolk ",1,3,M14
+27410,"Seacoast Drake","Blue ",2,,"Creature ","Drake ",1,3,M14
+27411,"Seismic Stomp","Red ",2,,"Sorcery ",,NULL,NULL,M14
+27412,"Sengir Vampire","Black ",5,,"Creature ","Vampire ",4,4,M14
+27413,"Sensory Deprivation","Blue ",1,,"Enchantment ","Aura ",NULL,NULL,M14
+27414,"Sentinel Sliver","White ",2,,"Creature ","Sliver ",2,2,M14
+27415,"Seraph of the Sword","White ",4,,"Creature ","Angel ",3,3,M14
+27416,"Serra Angel","White ",5,,"Creature ","Angel ",4,4,M14
+27417,"Shadowborn Apostle","Black ",1,,"Creature ","Cleric Human ",1,1,M14
+27418,"Shadowborn Demon","Black ",5,,"Creature ","Demon ",5,6,M14
+27419,"Shimmering Grotto",,0,,"Land ",,NULL,NULL,M14
+27420,"Shiv's Embrace","Red ",4,,"Enchantment ","Aura ",NULL,NULL,M14
+27421,"Shivan Dragon","Red ",6,,"Creature ","Dragon ",5,5,M14
+27422,Shock,"Red ",1,,"Instant ",,NULL,NULL,M14
+27423,"Show of Valor","White ",2,,"Instant ",,NULL,NULL,M14
+27424,Shrivel,"Black ",2,,"Sorcery ",,NULL,NULL,M14
+27425,"Siege Mastodon","White ",5,,"Creature ","Elephant ",3,5,M14
+27426,Silence,"White ",1,,"Instant ",,NULL,NULL,M14
+27427,"Sliver Construct",,3,,"Creature Artifact ","Construct Sliver ",2,2,M14
+27428,Smelt,"Red ",1,,"Instant ",,NULL,NULL,M14
+27429,"Solemn Offering","White ",3,,"Sorcery ",,NULL,NULL,M14
+27430,Soulmender,"White ",1,,"Creature ","Cleric Human ",1,1,M14
+27431,"Spell Blast","Blue ",1,,"Instant ",,NULL,NULL,M14
+27432,Sporemound,"Green ",5,,"Creature ","Fungus ",3,3,M14
+27433,"Staff of the Death Magus",,3,,"Artifact ",,NULL,NULL,M14
+27434,"Staff of the Flame Magus",,3,,"Artifact ",,NULL,NULL,M14
+27435,"Staff of the Mind Magus",,3,,"Artifact ",,NULL,NULL,M14
+27436,"Staff of the Sun Magus",,3,,"Artifact ",,NULL,NULL,M14
+27437,"Staff of the Wild Magus",,3,,"Artifact ",,NULL,NULL,M14
+27438,"Steelform Sliver","White ",3,,"Creature ","Sliver ",2,2,M14
+27439,"Stonehorn Chanter","White ",6,,"Creature ","Cleric Rhino ",4,4,M14
+27440,"Striking Sliver","Red ",1,,"Creature ","Sliver ",1,1,M14
+27441,"Strionic Resonator",,2,,"Artifact ",,NULL,NULL,M14
+27442,"Suntail Hawk","White ",1,,"Creature ","Bird ",1,1,M14
+27443,Swamp,,0,"Basic ","Land ","Swamp ",NULL,NULL,M14
+27444,Swamp,,0,"Basic ","Land ","Swamp ",NULL,NULL,M14
+27445,Swamp,,0,"Basic ","Land ","Swamp ",NULL,NULL,M14
+27446,Swamp,,0,"Basic ","Land ","Swamp ",NULL,NULL,M14
+27447,"Syphon Sliver","Black ",3,,"Creature ","Sliver ",2,2,M14
+27448,"Tenacious Dead","Black ",1,,"Creature ","Warrior Skeleton ",1,1,M14
+27449,"Thorncaster Sliver","Red ",5,,"Creature ","Sliver ",2,2,M14
+27450,"Thunder Strike","Red ",2,,"Instant ",,NULL,NULL,M14
+27451,"Tidebinder Mage","Blue ",2,,"Creature ","Wizard Merfolk ",2,2,M14
+27452,"Time Ebb","Blue ",3,,"Sorcery ",,NULL,NULL,M14
+27453,"Tome Scour","Blue ",1,,"Sorcery ",,NULL,NULL,M14
+27454,"Trading Post",,4,,"Artifact ",,NULL,NULL,M14
+27455,"Trained Condor","Blue ",3,,"Creature ","Bird ",2,1,M14
+27456,Traumatize,"Blue ",5,,"Sorcery ",,NULL,NULL,M14
+27457,Trollhide,"Green ",3,,"Enchantment ","Aura ",NULL,NULL,M14
+27458,"Undead Minotaur","Black ",3,,"Creature ","Minotaur Zombie ",2,3,M14
+27459,"Vampire Warlord","Black ",5,,"Creature ","Warrior Vampire ",4,2,M14
+27460,"Vastwood Hydra","Green ",2,,"Creature ","Hydra ",0,0,M14
+27461,"Verdant Haven","Green ",3,,"Enchantment ","Aura ",NULL,NULL,M14
+27462,"Vial of Poison",,1,,"Artifact ",,NULL,NULL,M14
+27463,"Vile Rebirth","Black ",1,,"Instant ",,NULL,NULL,M14
+27464,"Volcanic Geyser","Red ",2,,"Instant ",,NULL,NULL,M14
+27465,"Voracious Wurm","Green ",2,,"Creature ","Wurm ",2,2,M14
+27466,"Wall of Frost","Blue ",3,,"Creature ","Wall ",0,7,M14
+27467,"Wall of Swords","White ",4,,"Creature ","Wall ",3,5,M14
+27468,"Warden of Evos Isle","Blue ",3,,"Creature ","Wizard Bird ",2,2,M14
+27469,"Water Servant","Blue ",4,,"Creature ","Elemental ",3,4,M14
+27470,"Wild Guess","Red ",2,,"Sorcery ",,NULL,NULL,M14
+27471,"Wild Ricochet","Red ",4,,"Instant ",,NULL,NULL,M14
+27472,"Windreader Sphinx","Blue ",7,,"Creature ","Sphinx ",3,7,M14
+27473,Windstorm,"Green ",1,,"Instant ",,NULL,NULL,M14
+27474,Witchstalker,"Green ",3,,"Creature ","Wolf ",3,3,M14
+27475,"Woodborn Behemoth","Green ",5,,"Creature ","Elemental ",4,4,M14
+27476,"Wring Flesh","Black ",1,,"Instant ",,NULL,NULL,M14
+27477,"Xathrid Necromancer","Black ",3,,"Creature ","Wizard Human ",2,2,M14
+27478,"Young Pyromancer","Red ",2,,"Creature ","Shaman Human ",2,1,M14
+27479,"Zephyr Charge","Blue ",2,,"Enchantment ",,NULL,NULL,M14
